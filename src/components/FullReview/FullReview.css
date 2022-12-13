@@ -1,0 +1,85 @@
+.fullBox{
+    position:relative;
+    left:0;
+    right:0;
+    width: 100%;
+}
+
+.textP{
+    font-size: 30px;
+}
+
+img{
+    width: 240px;
+    height: 246px;
+}
+
+.headerH{
+    float: left;
+    width: 60%;
+}
+
+
+.TitleReview{
+    width: 100%;
+    height: 300px;
+}
+
+.imgTitle{
+    text-align: center;
+    float: left;
+    width: 29%;
+}
+
+.headerTitle{
+    padding-top: 50px;
+    text-align: left;
+    float: left;
+    width: 69%;
+    height: 200px;
+}
+
+.info{
+    width: 100%;
+}
+
+.textInfo{
+    float: left;
+    width: 54%;
+}
+
+.tralierInfo{
+    text-align: center;
+    float: left;
+    width: 44%;
+}
+
+.textContainer{
+    text-align: left;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.writerInfo{
+    padding-left: 20px;
+}
+
+.exitBtn{
+    width: 2%;
+    height: 4%;
+}
+
+.deleteBtn{
+    background-color: #08d;
+    border-radius: 12px;
+    border: 0;
+    box-sizing: border-box;
+    color: #eee;
+    cursor: pointer;
+    font-size: 18px;
+    height: 50px;
+    margin-top: 38px;
+    outline: 0;
+    text-align: center;
+    width: 10%;
+}
